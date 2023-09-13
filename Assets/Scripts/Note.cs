@@ -29,3 +29,5 @@ public class Note : MonoBehaviour
         }
     }
 }
+
+//Possibly add music settings in here
